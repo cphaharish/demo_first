@@ -1,0 +1,10 @@
+git stash -u    (is used to store all the changes in to tmp storage and keep the working diectory clean)
+
+$ git stash -u
+Saved working directory and index state WIP on master: 6d7f38b Added git-
+
+git stash list
+
+git stash show
+
+git stash apply
