@@ -1,1 +1,8 @@
 Here are the commands for git
+
+git clone
+git status
+git add .
+git branch
+git pull origin master
+
